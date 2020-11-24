@@ -7,5 +7,5 @@
 - 💬 Ask me about process / chemical engineering, process simulation, nitrogen chemistry
 - 📫 How to reach me: jenda@kolda.eu  
 - ⚡ Recommend any interesting Blockchain project in Python?
-Linkedin: linkedin.com/in/jankolda
+- Linkedin: linkedin.com/in/jankolda
 
