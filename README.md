@@ -8,3 +8,5 @@
 - 📫 How to reach me: jenda@kolda.eu  
 - Linkedin: linkedin.com/in/jankolda
 
+  [![An image of @jendakolda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jendakolda)](https://holopin.io/@jendakolda)
+
